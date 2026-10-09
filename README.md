@@ -27,6 +27,8 @@ SatelliteSeg AI is a deep learning application that detects and segments buildin
 - 🎭 **Output:** Binary Segmentation Mask
 - 📉 **Loss Functions:** Binary Cross-Entropy and Dice Loss
 
+![ml](https://github.com/rushikeshwalode06-cod/Satellite-Image-Segmentation-using-U-Net-/blob/main/satellite_model_image.png?raw=true)
+
 ## 🔄 Processing Pipeline
 
 1. 📤 Upload a satellite image.
