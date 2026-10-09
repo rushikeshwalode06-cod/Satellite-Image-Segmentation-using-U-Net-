@@ -68,3 +68,5 @@ SatelliteSeg AI is a deep learning application that detects and segments buildin
 ## 🎯 Conclusion
 
 SatelliteSeg AI demonstrates the application of deep learning in satellite image analysis using U-Net with a MobileNetV2 encoder. The project enables building segmentation, mask generation, visual overlay creation, and building coverage analysis through an interactive Streamlit dashboard. It provides a useful foundation for future applications in urban planning, infrastructure monitoring, and remote sensing.
+
+![ml](https://github.com/rushikeshwalode06-cod/Satellite-Image-Segmentation-using-U-Net-/blob/main/SatelliteSeg%20AI_%20image.png?raw=true)
